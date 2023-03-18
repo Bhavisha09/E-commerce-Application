@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_stage">
+        <item>EVIDENCE</item>
+        <item>DE</item>
+        <item>ISSUE</item>
+        <item>RE.EVIDENCE</item>
+        <item>AP EVIDENCE</item>
+        <item>CALL RECORD</item>
+        <item>COMMIT</item>
+        <item>SOS</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>

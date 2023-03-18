@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_casetype">
+        <item>CRM-RIVI</item>
+        <item>SP.EXI</item>
+        <item>RE.EXI</item>
+        <item>Nego</item>
+        <item>SE.C</item>
+        <item>ATRO</item>
+        <item>CRMA</item>
+        <item>SPL.GEB</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>
+

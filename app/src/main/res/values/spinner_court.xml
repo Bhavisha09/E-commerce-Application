@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_court">
+        <item>SESSION COURT</item>
+        <item>DISTRICT COURT</item>
+        <item>HIGH COURT</item>
+        <item>SUPREME COURT</item>
+    </string-array>
+</resources>

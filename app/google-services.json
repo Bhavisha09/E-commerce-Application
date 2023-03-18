@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "878304432849",
+    "project_id": "advocate-journal",
+    "storage_bucket": "advocate-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878304432849:android:525582bc13420a4ca9abf0",
+        "android_client_info": {
+          "package_name": "com.example.advocatejournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878304432849-dbc9k8p2s23otcplj7g6cln38st2sfkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.advocatejournal",
+            "certificate_hash": "87189898bfc6dff72670a778babf07b836c039d8"
+          }
+        },
+        {
+          "client_id": "878304432849-l5k7jb6s5iijf5ls1lc6pac4crq6251g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm_OBb79H0tUuh5OE6TjU2g_Ar-f9R7zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878304432849-l5k7jb6s5iijf5ls1lc6pac4crq6251g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
